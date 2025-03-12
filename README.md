@@ -8,7 +8,7 @@ Currently, this is available for iOS (Swift), with support for more SDKs and lan
 
 To set up Superwall-specific rules in Cursor:  
 
-1. Download the User Rule file for iOS from this repo: `ios-swiftui-cursor-rules-superwall-sdk.md`.  
+1. Download the User Rule file for iOS from this repo: <a id="raw-url" href="https://github.com/superwall/cursor-rules/raw/main/ios-swiftui-cursor-rules-superwall-sdk.md">`ios-swiftui-cursor-rules-superwall-sdk.md`</a>.  
 2. Open Cursor and navigate to **Cursor → Settings… → Cursor Settings**.  
 3. Under **User Rules**, paste the contents of the downloaded rule file.  
 
